@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udemy-cs-StringBuilder", "udemy-cs-StringBuilder\udemy-cs-StringBuilder.csproj", "{A769C18C-0C2F-4A3A-B2C4-D3A1E0186507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A769C18C-0C2F-4A3A-B2C4-D3A1E0186507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A769C18C-0C2F-4A3A-B2C4-D3A1E0186507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A769C18C-0C2F-4A3A-B2C4-D3A1E0186507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A769C18C-0C2F-4A3A-B2C4-D3A1E0186507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F215C3-F656-45DE-A067-CCEC4230A91E}
+	EndGlobalSection
+EndGlobal
